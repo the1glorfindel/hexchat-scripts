@@ -9,5 +9,5 @@ Items in brackets are optional
  superslap.py: slap people with various fish and sizes. 
   Usage: /slap [nick]
 
-cookies.py: hand out cookies really easy with this script
+cookies.py: hand out random cookies really easy with this script
  Usage: /cookies [nick]
